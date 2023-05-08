@@ -8,7 +8,7 @@
 <li> First of all Create an ISSUE for best practices . You can Write your purpose , target and identity if you want in the issue . You can find issues in the upper left nav bar , Click on it to some of the issues for example</li>
 
 <li> In real world scenario your issue will be seen by the owner of the repo. If He find it anything wrong or right they will give some feedback on it. As this repo is for practice Issue section will be kept to have GD of all the practicians. </li>
-<li> Now that you told the owner what you want to do. Do that in seperate branch  <li>
+<li> Now that you told the owner what you want to do. Do that in seperate branch  </li>
 </ol>
 
 ## Starting Git 
@@ -23,11 +23,17 @@
    </ul>
     SSH is mostly used and suggested to communicate between your local and remote repo 
     You can setup your SSH keys for <a href="https://github.com/sysdevbd/sysdevbd.github.io/tree/master/git">Ubuntu </a> and <a href="https://www.theserverside.com/blog/Coffee-Talk-Java-News-Stories-and-Opinions/GitHub-SSH-Windows-Example">windows</a>
-
-    If its too overwhelming for you can just use HTTPS as well thats easy but less secure and require auth every time.So suggestion is start with HTTPS then move to SSH as you learn.
+If its too overwhelming for you can just use HTTPS as well thats easy but less secure and require auth every time.So suggestion is start with HTTPS then move to SSH as you learn.
 </li> 
+</ol>
 
 ## Startng Actual Work 
 
-</ol>
+### Now you are set to go.
+### There are many ways you can start practicing.
+### First clone the project in your local PC. Open a folder then open terminal then clone the project by writting ``` git clone SSH/HTTPS ``` you can find the SSH or HTTPS link from second navbar with green button. Copy the link replace SSH/HTTPS with that link 
+
+### You will see many many files. 
+
+
 

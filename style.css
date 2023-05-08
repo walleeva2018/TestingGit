@@ -11,3 +11,16 @@
 .middle{
     align-items: center;
 }
+.big{
+    font-size: 30px;
+}
+.right{
+    text-align: right;
+}
+
+#list_big{
+    font-size: 30px;
+}
+.work_exp{
+    background-color: aliceblue;
+}

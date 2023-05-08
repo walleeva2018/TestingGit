@@ -31,23 +31,22 @@ If its too overwhelming for you can just use HTTPS as well thats easy but less s
 
 ### Now you are set to go.
 ### There are many ways you can start practicing.
-### First clone the project in your local PC. Open a folder then open terminal then clone the project by writting `git clone SSH/HTTPS ` you can find the SSH or HTTPS link from second navbar with green button. Copy the link replace SSH/HTTPS with that link 
+### First clone the project in your local PC. Open a folder then open terminal then clone the project by writting ```git clone SSH/HTTPS ``` you can find the SSH or HTTPS link from second navbar with green button. Copy the link replace SSH/HTTPS with that link 
 
 ### You will see many many files. 
 
 ## Follow this 
 #### First you should only focus one Homepage.html file And do the following to to start real work 
-<ol>
-<li> Click on the Homepage.html to open it in browser </li>
-<li> See how people have created their own pages click on them to look around </li>
-<li> Now first you can make any changes to Homepage.html without removing any name </li>
-<li> you should write your name in it </li>
-<li> Later you will link your profile with your name just like all other </li>
-<li> After adding your name save the file </li>
-<li> Now go to terminal write ``` git add Homepage.html ```  This you stage ( getting ready to commit)  your file</li>
-<li> Now type ``` git commit -m "First Commit by your_name" ``` This will commit the file locally </li>
-<li> Now type ```git push``` This will commit the changes to Homepage.html remotely . </li>
-<li> <B> N.B This is not best practice for git but we will get to that soon. Also if you are using HTTPS after you push it may ask you to authenticate </B> </li>
+##### Click on the Homepage.html to open it in browser 
+##### See how people have created their own pages click on them to look around 
+##### Now first you can make any changes  by opening Homepage.html with any text editor  without removing any name
+##### you should write your name in it 
+##### Later you will link your profile with your name just like all other
+##### After adding your name save the file
+##### Now go to terminal write ``` git add Homepage.html ```  This you stage ( getting ready to commit)  your file
+##### Now type ``` git commit -m "First Commit by your_name" ``` This will commit the file locally 
+##### Now type ```git push``` This will commit the changes to Homepage.html remotely .
+<B> N.B This is not best practice for git but we will get to that soon. Also if you are using HTTPS after you push it may ask you to authenticate </B>
 
 
 

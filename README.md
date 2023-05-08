@@ -50,4 +50,12 @@ If its too overwhelming for you can just use HTTPS as well thats easy but less s
 
 
 
+### Start your own journey. 
 
+#### Now that you are part of this repo. You should use best practice to contibute to it to make your knowledge improve.
+#### Click on the fork button on github on the upper right corner 
+#### It will copy the whole project in your github account 
+#### Now go to your repo 
+#### clone it to your local Machine just like before 
+#### Now you will create a new branch . Name the branch b_your_name's_initial . You can write ``` git branch b_name ``` to create new branch 
+## You can know more about branch from <a href="https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell">here </a>

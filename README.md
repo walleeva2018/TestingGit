@@ -59,3 +59,10 @@ If its too overwhelming for you can just use HTTPS as well thats easy but less s
 #### clone it to your local Machine just like before 
 #### Now you will create a new branch . Name the branch b_your_name's_initial . You can write ``` git branch b_name ``` to create new branch 
 ## You can know more about branch from <a href="https://git-scm.com/book/en/v2/Git-Branching-Branches-in-a-Nutshell">here </a>
+
+### Now that you have your own branch and own repo, Add a file with your name 
+### make it as your profile or CV 
+### After that create a PR request to merge it with the main repo
+### Your profile will forever be kept in github 
+
+## N.B In your branch in your fork try practicing every HTML basic , CSS basic and git best practices. You can invite friend to feel more realistic of collaborative work. Try at least using git pull merge or rebase in your profile making. 

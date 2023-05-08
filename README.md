@@ -1,5 +1,10 @@
-# Test git operations 
-### This repo is for beginners who want to deep dive into beautiful world of open soure.If you are learning git and want a repo to practice with here. you can create branch , update , create PR etc etc.The author will response within a day 
+# This repo is created to practicce Basics of HTML , CSS and Git 
 
-# Tutorials 
-### you should follow these path to start your git journey . 
+## You can contribute to this repo for practing purpose by following the process
+
+## Plase follow the following steps to get your work starting 
+
+<ol>
+<li> First of all Create an ISSUE for best practices . You can Write your purpose , target and identity if you want in the issue . You can find issues in the upper left nav bar , Click on it to some of the issues for example</li>
+
+

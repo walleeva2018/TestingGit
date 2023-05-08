@@ -1,7 +1,0 @@
-{
-  "name": "git-learn",
-  "version": "0.1.0",
-  "dependencies": {
-    "vue": "3.2.47"
-  }
-}

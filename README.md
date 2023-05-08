@@ -39,7 +39,7 @@ If its too overwhelming for you can just use HTTPS as well thats easy but less s
 #### First you should only focus one Homepage.html file And do the following to to start real work 
 ##### Click on the Homepage.html to open it in browser 
 ##### See how people have created their own pages click on them to look around 
-##### Now first you can make any changes  by opening Homepage.html with any text editor  without removing any name
+##### Now first you can make any changes  by opening Homepage.html with any text editor  without removing any name. Codes are commented for you to understand 
 ##### you should write your name in it 
 ##### Later you will link your profile with your name just like all other
 ##### After adding your name save the file
